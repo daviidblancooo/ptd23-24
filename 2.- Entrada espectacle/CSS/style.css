@@ -1,0 +1,51 @@
+
+
+
+
+.logo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 250px;
+height: 250px;
+}
+
+main {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+h1{
+    text-align: left;
+    
+    color: red;
+}
+
+.tabla1 {
+    background-color: rgb(180, 178, 178);
+    font-weight: bolder;
+}
+
+.tabla1 td {
+text-align: left;
+width: 200px;
+}
+
+.tabla2 td{
+text-align: left;
+width: 200px;
+}
+
+.tabla2{
+background-color: rgb(180, 178, 178);
+font-weight: bolder;
+
+
+}
+
+
+

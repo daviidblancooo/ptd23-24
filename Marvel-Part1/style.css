@@ -1,0 +1,23 @@
+h1, p{
+    text-align: center;
+}
+header{
+    background-color: rgb(221, 221, 221);
+    padding: 0.6%;
+    
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 5px;
+    text-align: center;
+}
+.div1{
+    background-color: rgb(221, 221, 221);
+}
+img{
+    width: 40%;
+}
+.a{
+    color: rgb(158, 158, 158);
+}
